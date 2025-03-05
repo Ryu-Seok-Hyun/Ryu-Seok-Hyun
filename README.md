@@ -1,82 +1,84 @@
 <div align="center">
 
-  <!-- 헤더: 블랙 & 웨이브 애니메이션 -->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0F0F0F&height=230&section=header&text=Ryu-Seok-Hyun&fontColor=ffffff&fontSize=65&fontAlignY=40&animation=fadeIn)
+  <!-- 헤더: 럭셔리 블랙 & 골드 애니메이션 -->
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=191919&height=250&section=header&text=Ryu-Seok-Hyun&fontColor=FFD700&fontSize=65&fontAlignY=40&animation=twinkling)
 
-  <h3 style="color: white;">👋 Welcome to My Dark-Themed GitHub Profile 🚀</h3>
-  <p style="color: gray;">🔹 Passionate Backend Developer | Exploring Full-Stack Technologies</p>
-  <p style="color: gray;">🔹 Learning, Creating, and Improving Every Day</p>
-
-  <br/>
-
-  <!-- 사용 기술 -->
-  ## ⚡ Tech Stack
-  <p align="center">
-    <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Java&logoColor=white">
-    <img src="https://img.shields.io/badge/SpringBoot-000000?style=for-the-badge&logo=Spring&logoColor=white">
-    <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=MySQL&logoColor=white">
-    <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=AmazonAWS&logoColor=white">
-  </p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=yellow">
-    <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=orange">
-    <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=blue">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white">
-  </p>
+  <h2 style="color: #FFD700; font-weight: bold; text-shadow: 2px 2px 10px rgba(255, 215, 0, 0.8);">💎 Welcome to My GitHub Profile 💎</h2>
+  <p style="color: #B0B0B0; font-size: 1.2rem;">🚀 Backend Developer | Building Scalable & Secure Systems</p>
+  <p style="color: #B0B0B0; font-size: 1.2rem;">🔹 Passionate about High-Quality Code & Performance Optimization</p>
 
   <br/>
 
-  <!-- GitHub 통계 -->
-  ## 📊 GitHub Stats
+  <!-- 🛠️ Tech Stack -->
+  ## ⚡ Premium Tech Stack
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Ryu-Seok-Hyun&theme=tokyonight_duo&hide_border=true" width="48%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryu-Seok-Hyun&layout=compact&theme=tokyonight&hide_border=true" width="48%">
+    <img src="https://img.shields.io/badge/Java-191919?style=for-the-badge&logo=Java&logoColor=FFD700">
+    <img src="https://img.shields.io/badge/SpringBoot-191919?style=for-the-badge&logo=Spring&logoColor=FFD700">
+    <img src="https://img.shields.io/badge/MySQL-191919?style=for-the-badge&logo=MySQL&logoColor=FFD700">
+    <img src="https://img.shields.io/badge/AWS-191919?style=for-the-badge&logo=AmazonAWS&logoColor=FFD700">
   </p>
-  
+  <p align="center">
+    <img src="https://img.shields.io/badge/JavaScript-191919?style=for-the-badge&logo=JavaScript&logoColor=FFD700">
+    <img src="https://img.shields.io/badge/HTML5-191919?style=for-the-badge&logo=HTML5&logoColor=FFD700">
+    <img src="https://img.shields.io/badge/CSS3-191919?style=for-the-badge&logo=CSS3&logoColor=FFD700">
+    <img src="https://img.shields.io/badge/GitHub-191919?style=for-the-badge&logo=GitHub&logoColor=FFD700">
+  </p>
+
   <br/>
 
-  <!-- 프로젝트 -->
-  ## 🔥 Featured Projects
+  <!-- 📊 GitHub Stats -->
+  ## 📈 GitHub Performance
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Ryu-Seok-Hyun&theme=github-dark&hide_border=true&background=191919&ring=FFD700&fire=FFD700&currStreakNum=FFD700&currStreakLabel=FFD700" width="48%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryu-Seok-Hyun&layout=compact&theme=github_dark&hide_border=true&background=191919&title_color=FFD700&text_color=FFD700" width="48%">
+  </p>
+
+  <br/>
+
+  <!-- 🔥 주요 프로젝트 -->
+  ## 🏆 Featured Projects
   <p align="center">
     <a href="https://github.com/Ryu-Seok-Hyun/project1" target="_blank">
-      <img src="https://img.shields.io/badge/Project One-000000?style=for-the-badge&logo=github&logoColor=white">
+      <img src="https://img.shields.io/badge/Project_One-191919?style=for-the-badge&logo=github&logoColor=FFD700">
     </a>
     <a href="https://github.com/Ryu-Seok-Hyun/project2" target="_blank">
-      <img src="https://img.shields.io/badge/Project Two-000000?style=for-the-badge&logo=github&logoColor=white">
+      <img src="https://img.shields.io/badge/Project_Two-191919?style=for-the-badge&logo=github&logoColor=FFD700">
     </a>
   </p>
 
   <br/>
 
-  <!-- 공부 기록 -->
-  ## ✏️ Study Log
+  <!-- ✏️ 공부 기록 -->
+  ## 📖 Study & Insights
   <p align="center">
-    <a href="https://velog.io/@yourprofile">
-      <img src="https://img.shields.io/badge/Velog-000000?style=for-the-badge&logo=Velog&logoColor=white">
+    <a href="https://velog.io/@RyuSeokHyun">
+      <img src="https://img.shields.io/badge/Velog-191919?style=for-the-badge&logo=Velog&logoColor=FFD700">
     </a>
     <a href="https://github.com/Ryu-Seok-Hyun">
-      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white">
+      <img src="https://img.shields.io/badge/GitHub-191919?style=for-the-badge&logo=GitHub&logoColor=FFD700">
     </a>
   </p>
 
   <br/>
 
-  <!-- 연락처 -->
-  ## 📫 Connect with Me
+  <!-- 📬 연락처 -->
+  ## ✉️ Connect with Me
   <p align="center">
-    <a href="mailto:your-email@example.com">
-      <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=Gmail&logoColor=white">
+    <a href="mailto:riria0126@naver.com">
+      <img src="https://img.shields.io/badge/Email-191919?style=for-the-badge&logo=Gmail&logoColor=FFD700">
     </a>
     <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white">
+      <img src="https://img.shields.io/badge/LinkedIn-191919?style=for-the-badge&logo=LinkedIn&logoColor=FFD700">
     </a>
   </p>
 
   <br/>
 
-  <small style="color: gray;">✨ Crafted with ❤️ by Ryu-Seok-Hyun ✨</small>
+  <small style="color: #FFD700;">✨ Designed & Crafted with ❤️ by Ryu-Seok-Hyun ✨</small>
 
 </div>
+
+
 
 
 
