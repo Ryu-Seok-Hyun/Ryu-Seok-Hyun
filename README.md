@@ -1,10 +1,10 @@
 <div align="center">
 
   <!-- 헤더: 럭셔리 블랙 & 골드 애니메이션 -->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=191919&height=250&section=header&text=Ryu-Seok-Hyun&fontColor=FFD700&fontSize=65&fontAlignY=40&animation=twinkling)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=191919&height=250&section=header&text=SeokHyun&fontColor=FFD700&fontSize=65&fontAlignY=40&animation=twinkling)
 
-  <h2 style="color: #FFD700; font-weight: bold; text-shadow: 2px 2px 10px rgba(255, 215, 0, 0.8);">💎 Welcome to My GitHub Profile 💎</h2>
-  <p style="color: #B0B0B0; font-size: 1.2rem;">🚀 Backend Developer | Building Scalable & Secure Systems</p>
+  <h2 style="color: #FFD700; font-weight: bold; text-shadow: 2px 2px 10px rgba(255, 215, 0, 0.8);">💎 Welcome to Seok Hyun GitHub Profile 💎</h2>
+  <p style="color: #B0B0B0; font-size: 1.2rem;">🚀 Backend Developer</p>
   <p style="color: #B0B0B0; font-size: 1.2rem;">🔹 Passionate about High-Quality Code & Performance Optimization</p>
 
   <br/>
